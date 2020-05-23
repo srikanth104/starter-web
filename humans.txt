@@ -2,9 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
-    <name> -- <role> -- <twitter>
-
+	V.Srikanth v.srikanth@test.com
 # THANKS
 
     <name>
